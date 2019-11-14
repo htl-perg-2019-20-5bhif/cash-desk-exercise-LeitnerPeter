@@ -1,0 +1,10 @@
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.csprojAssemblyReference.cache
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfoInputs.cache
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfo.cs
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.deps.json
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.dll
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.json
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.dev.json
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.pdb
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.dll
+C:\Users\Besitzer\Desktop\Schule\5BHIF\MCU\HUE\CashDesk\cash-desk-exercise-LeitnerPeter\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.pdb
